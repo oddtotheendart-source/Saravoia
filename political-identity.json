@@ -1,0 +1,41 @@
+{
+  "source_id": "U-POL-20261003",
+  "title": "V - Political Identity",
+  "provenance": "County document excerpt pasted by the user on 3 October 2026; original document date, author and command not supplied. Present is the source's wording, not independently verified current status.",
+  "fields": {
+    "Founded": "10 Ero 986AF",
+    "Formal Name": "The County Palatinate of Saravoia",
+    "Brief Name": "Saravoia",
+    "Demonym": "Saravyn preferred, Saravoian permitted.",
+    "Ceremonial Tongue": "Saravic",
+    "Area": "Sarave Foothills",
+    "Continent": "Meropis",
+    "Planet": "Achaea",
+    "Plane": "Prime",
+    "Dominion": "Sarave Foothills",
+    "Capital": "Atralazari, Palace of the Black Sun",
+    "Settlements": "Cetatea Visindi; Cabotsaria; Witchtown",
+    "Founding Dynasty": "Visindi",
+    "Government Form": "Hereditary Noble Autocracy",
+    "Inheritance": "Heir Designation",
+    "Eligible Heirs": "Direct blood descent from the founder of the Visindi Dynasty, Nezaya Visindi. Birth order is irrelevant, as is gender.",
+    "Legal Style": "Countess Palatine",
+    "Courtly Style": "Countess",
+    "Formal Style — Prefix": "Her Noble Serenity",
+    "Formal Style — Suffix": "Countess of Saravoia",
+    "Title of Heir": "Viscountess",
+    "Title of Regent": "Protector of the Saravyn",
+    "Prefix of Courtiers — Male/Fae": "Vynren",
+    "Prefix of Courtiers — Female": "Vynlada",
+    "Ruler": "Her Noble Serenity, Nezaya Visindi, Countess of Saravoia",
+    "Reign": "10 Ero 988AF - Present",
+    "Dynasty": "Visindi"
+  },
+  "review_notes": [
+    "Founded 986AF and reign start 988AF are distinct assertions; do not merge their dates.",
+    "This excerpt supports Atralazari; retain Atralanzari in the earlier secondary summary as a recorded spelling variant.",
+    "The listed settlements establish membership but do not specify geographical nesting or adjacency.",
+    "Title of Heir is given as Viscountess; preserve it alongside dated Chronicle attestations of Viscount without silently normalizing.",
+    "Saravic is identified as ceremonial tongue here; this excerpt does not establish its dialect ancestry."
+  ]
+}
