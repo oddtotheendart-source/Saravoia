@@ -27,3 +27,7 @@ User supplied undated clock-time excerpts (4:42–4:44 PM) on 3 October 2026. Pr
 Kaylia proposed two tall stained-glass margin panels, consistent in style and different by page topic. Nezaya's “Dealer's choice” is recorded in that exchange. These are visual preferences and analogy; they do not establish real-world geography, ancestry, or a historical architectural classification for Saravoia.
 
 User requested a bat to fly into view while sitting at the landing page. Implemented as a small decorative silhouette with periodic crossing and wingbeats, pointer events disabled, hidden when reduced motion is preferred.
+
+## Black keep correction
+
+User supplied the direct room description headed “Before an enormous black keep” in this conversation. The Witchfort is explicitly black. Gate bands are dense blackened metal, with crystalline finish and spiked rivets; a very broad and tall portcullis, lower fangs, two circular gatehouse towers, an overhanging balcony and walls terminating in two bastions are described. Interior torchlight reveals steel walls, slides and a grated floor. This passage does not specify that all village or courtyard masonry is black. The pale keep in the v2 rendering conflicts with this description and is superseded by a corrected v3 artwork. The balcony shimmer remains attested description; its visual mechanism is unspecified.
