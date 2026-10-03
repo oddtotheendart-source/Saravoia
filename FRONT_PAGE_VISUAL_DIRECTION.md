@@ -31,3 +31,5 @@ User requested a bat to fly into view while sitting at the landing page. Impleme
 ## Black keep correction
 
 User supplied the direct room description headed “Before an enormous black keep” in this conversation. The Witchfort is explicitly black. Gate bands are dense blackened metal, with crystalline finish and spiked rivets; a very broad and tall portcullis, lower fangs, two circular gatehouse towers, an overhanging balcony and walls terminating in two bastions are described. Interior torchlight reveals steel walls, slides and a grated floor. This passage does not specify that all village or courtyard masonry is black. The pale keep in the v2 rendering conflicts with this description and is superseded by a corrected v3 artwork. The balcony shimmer remains attested description; its visual mechanism is unspecified.
+
+User confirmed on 3 October 2026 that the legal name is “County Palatinate of Saravoia”. Applied verbatim to the landing crest lettering and accessible main heading; this is a user-supplied terminology correction.
